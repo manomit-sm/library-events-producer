@@ -1,0 +1,9 @@
+{
+  "libraryEventId": null,
+  "libraryEventType": "NEW",
+  "book:" {
+    "bookId": 123,
+    "bookName": "Fire and Ice",
+    "bookAuthor": "J.J.Martine"
+  }
+}
